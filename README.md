@@ -1,11 +1,11 @@
-<h1>Deskripsi Proyek</h1>
-Web yang dirancang untuk membantu pengguna merencanakan dan mengatur perjalanan mereka. Aplikasi ini menyediakan berbagai fitur untuk mencari destinasi, merencanakan jadwal perjalanan, dan mengelola detail perjalanan.
+<h1>Project Description</h1>
+A web application designed to help users plan and organize their trips. The app provides various features to search for destinations, plan itineraries and manage trip details.
 
-<h1>Fitur</h1>
+<h1>Features</h1>
 <ul>
-  <li><b>Eksplorasi Destinasi</b>: Temukan berbagai destinasi wisata menarik dengan informasi lengkap.</li>
-  <li><b>Paket Wisata</b>: Berbagai pilihan paket wisata sesuai dengan kebutuhan perjalanan Anda.</li>
-  <li><b>Tips Perjalanan</b>: Panduan dan rekomendasi perjalanan untuk pengalaman terbaik.</li>
-  <li><b>Antarmuka Pengguna yang Intuitif</b>: Antarmuka yang bersih dan mudah digunakan untuk pengalaman pengguna yang optimal.</li>
-  <li><b>Antarmuka Responsif</b>: Dapat diakses dengan nyaman di berbagai perangkat.</li>
+  <li><b>Destination Exploration</b>: Discover various interesting tourist destinations with complete information.</li>
+  <li><b>Travel Packages</b>: A wide selection of tour packages to suit your travel needs.</li>
+  <li><b>Travel Tips</b>: Travel guides and recommendations for the best experience.</li>
+  <li><b>Intuitive User Interface</b>: Clean and easy-to-use interface for optimal user experience.</li>
+  <li><b>Responsive Interface</b>: Conveniently accessible on various devices.</li>
 </ul>
